@@ -1,2 +1,4 @@
 # dokumentacja
-Informacje o projekcie, zasadach
+Informacje o projekcie
+
+
