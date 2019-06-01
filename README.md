@@ -43,13 +43,16 @@ Po wyborach
 ## Aplikacja użytkownika
 
 Powinna zawierać więcej możliwości niż tylko możliwość głosowania
+Może stać się pierwszą stroną www/aplikacją dla świadomych wyborców
+
 
 1. Wsparcie wyborów, informacje, 
-2. Zgłoszenie się do komisji, itp
-3. Praca Komisji - dla członków komisji, do liczenia np kart wkładanych do URN
-4. Głosowanie
-5. Wsparcie prawników w okolicy
-6. Prawo wyborcze
+2. Okręgi wyborcze 
+3. Zgłoszenie się do komisji, itp
+4. Praca Komisji - dla członków komisji, do liczenia np kart wkładanych do URN
+5. Głosowanie
+6. Wsparcie prawników w okolicy
+7. Prawo wyborcze
 
 Największą korzyść byłaby dla aktywnych uczestników przed i po wyborach, by mogli łatwo komunikować się np z prawnikami i odpowiednimi urzędami.
 Aby był łatwy dostęp do odpowiednich dokumentów, wzorów pism, itp.
