@@ -43,7 +43,8 @@ Po wyborach
 ## Aplikacja użytkownika
 
 Powinna zawierać więcej możliwości niż tylko możliwość głosowania
-Może stać się pierwszą stroną www/aplikacją dla świadomych wyborców
+Może stać się pierwszą stroną www/aplikacją dla świadomych wyborców z opisem procedur, dostępem do innych wolontariuszy, którzy mogą udzielić informację bezpośrednio.
+Dostęp do dokumentów potrzebnych przy zgłoszeniach,itp
 
 
 1. Wsparcie wyborów, informacje, 
